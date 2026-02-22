@@ -37,3 +37,35 @@ Empecé este curso en febrero 2026 para construir una base sólida de **lógica 
 - 🚧 Próximo: Análisis paso a paso y más ejercicios básicos
 
 ### Estructura del repositorio
+universidad-logica-programacion/
+├── pseint/                  # Algoritmos y ejercicios en PSeInt (.psc)
+│   └── 01_HolaMundo.psc
+├── javascript/              # Sección futura: ejemplos y mini-proyectos JS
+├── notas/                   # Resúmenes y notas de Obsidian (exportadas o enlazadas)
+├── proyectos/               # Mini-proyectos finales (calculadoras, juegos, etc.)
+├── extras/                  # Recursos, comparaciones entre lenguajes
+└── README.md                # Este archivo
+
+### Tecnologías y herramientas actuales
+- **PSeInt** (para lógica inicial – instalado en Mac M1 Apple Silicon)
+- **VS Code** (editor principal + extensión Pseudocode para resaltar sintaxis)
+- **Obsidian** (para notas estructuradas y enlaces internos)
+- **Git + GitHub** (versionado de todo mi aprendizaje)
+
+### Metas personales
+- Completar el curso antes de fin de 2026
+- Construir al menos 7 mini-proyectos demostrables (uno por lenguaje principal)
+- Enfocarme especialmente en la sección de **JavaScript** para crear apps web básicas
+- Dejar una reseña honesta en Udemy al terminar
+- Usar este repo como base de mi portfolio profesional
+
+### Mensaje final
+Gracias al equipo del curso por el contenido claro y motivador.  
+Estoy invirtiendo en mí mismo y no pienso rendirme. ¡Vamos por esas metas y sueños!
+
+Si llegaste aquí: gracias por visitar mi progreso.  
+Sugerencias, correcciones o colaboraciones: abre un issue o contáctame en X @ClaudioOrtizDev.
+
+¡A programar! 💻🚀
+
+Última actualización: 22 de febrero de 2026
